@@ -1,24 +1,9 @@
-.App {
-  text-align: center;
+h2 {
+  color: red;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
-
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
-}
-
-.App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+#jumbotron {
+	background-image: url(http://ramburglar.com/wp-content/upload/genesis/Jeopardy!-Deluxe.png);
+	background-size: cover;
+	margin: 10px;
 }
