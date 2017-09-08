@@ -5,7 +5,7 @@ export class ScoreCard extends React.Component {
             return (
             <div id="right">
                 <div id="scorecard">
-                    <h2>Correct</h2>
+                    <h2>Score</h2>
                         <div id="scoresheet">
                             <h1 id="counter">...</h1>
                         </div>
